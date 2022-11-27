@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="50%">
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/0xStryK3R/0xStryK3R/snake-grid-animations/github-snake-grid-animation.svg" width="100%">
+<img src="https://github.com/Rajkumarsahu-xyz/Rajkumarsahu-xyz/blob/snake-grid-animations/github-snake-grid-dark-animation.svg" width="100%">
 
 
 <h2 align="center">🤝 Support</h2>
