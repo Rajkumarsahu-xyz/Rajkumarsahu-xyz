@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg --> 
 <p align="center"> <a href="https://github.com/denvercoder1/readme-typing-svg">
