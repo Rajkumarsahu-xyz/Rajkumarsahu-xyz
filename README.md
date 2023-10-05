@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/raj_ks_1916/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajks_1916" height="30" width="40" /></a>
 <a href="https://leetcode.com/rajks_1916/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajks_1916" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rajreigns1916" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajks_1916" height="30" width="40" /></a>
-<a href="https://drive.google.com/file/d/10-flb5FD1jhq3i0P0hjGHN_R53AL8P6a/view?usp=sharing"><img height="33" src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://drive.google.com/file/d/1PT71qfzi3yd9KdzGtOShujcDcPhlcJDc/view?usp=sharing"><img height="33" src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
